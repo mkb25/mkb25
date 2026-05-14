@@ -43,9 +43,9 @@ Backend & Tooling
 📈 My GitHub Stats
 📬 Let's Connect
 
-    LinkedIn: [[Link to your profile]](https://www.linkedin.com/in/mohanakb/)
+    LinkedIn: https://www.linkedin.com/in/mohanakb/
 
-    Portfolio: [[Link to your website]](https://mkb-rag-portfolio.vercel.app/)
+    Portfolio: https://mkb-rag-portfolio.vercel.app/
 
     Email: iammohankrishnabhat@gmail.com
 
