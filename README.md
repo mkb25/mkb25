@@ -6,9 +6,9 @@ I specialize in the intersection of artificial intelligence and intuitive user e
 
     Exploring: Agentic UI, integrating LLMs into modern front-end frameworks, and optimizing web performance.
 
-    Building: [Mention a current project, e.g., an AI-powered markdown editor or a computer-vision web app].
+    Building: AI enabled movie recomendation based on past conservation & Personal AI agent which filters my mails, filtering out the fulff and stuff
 
-    Learning: [Mention a new tool/framework, e.g., LangChain.js, WebGL, or a new vector database].
+    Learning: WebGL, PineCone, AI vision
 
 🛠 Tech Stack
 
@@ -16,23 +16,23 @@ Front-End Development
 
     Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
 
-    Frameworks: React, Next.js, [Vue.js / Svelte]
+    Frameworks: React, Next.js, Vue.js
 
-    Styling: Tailwind CSS, Framer Motion, [Sass / Styled Components]
+    Styling: Tailwind CSS, Framer Motion, SASS
 
 AI & Machine Learning
 
     Languages: Python
 
-    Libraries/Frameworks: TensorFlow, PyTorch, [Scikit-learn / Pandas]
+    Libraries/Frameworks: CrewAI, LlamaIndex 
 
-    AI Integration: OpenAI API, Hugging Face, LangChain, Vector Databases (Pinecone, Weaviate)
+    AI Integration: OpenAI API, Hugging Face, LangChain, Vector Databases 
 
 Backend & Tooling
 
-    Tools: Node.js, Express, FastAPI, Git, Docker
+    Tools: Node.js, Express, FastAPI, Git, 
 
-    Deployment: Vercel, Netlify, AWS
+    Deployment: Vercel, Netlify, Cloudflare
 
 🚀 Featured Projects
 
@@ -43,10 +43,10 @@ Backend & Tooling
 📈 My GitHub Stats
 📬 Let's Connect
 
-    LinkedIn: [Link to your profile]
+    LinkedIn: [[Link to your profile]](https://www.linkedin.com/in/mohanakb/)
 
-    Portfolio: [Link to your website]
+    Portfolio: [[Link to your website]](https://mkb-rag-portfolio.vercel.app/)
 
-    Email: [Your email address]
+    Email: iammohankrishnabhat@gmail.com
 
-What is one of the coolest AI or front-end projects you have built so far that we can highlight in the "Featured Projects" section?
+
