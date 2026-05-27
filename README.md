@@ -23,7 +23,7 @@ I specialize in creating smart, responsive web applications powered by modern ma
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🤖 next-rag-portfolio](https://next-rag-portfolio.vercel.app/) | Agentic terminal portfolio with RAG + multi-persona LLM responses | Next.js • Groq • Upstash |
+| [🤖 next-rag-portfolio](https://mkb-rag-portfolio.vercel.app/) | Agentic terminal portfolio with RAG + multi-persona LLM responses | Next.js • Groq • Upstash |
 | [💻 Zine-Core](https://zine-core.onrender.com/) | A Neo-Brutalist React Component Library.<br/>Raw, hand-stamped energy meets digital punk. Thick borders, acid colors, and intentional misalignment. | React.js • CSS3  • Vite  |
 | [💻 TerminalPortfolio](https://mkbportfolio1.netlify.app/) | Interactive terminal-style portfolio with games & themes | Vanilla JS • CSS3 |
 | [📃 Fomr Builder](https://form-builder.mkb1.workers.dev/) | Building forms using drag and drop which gives JSON data of form created version 1.0 | React.js dnd-kit |  
