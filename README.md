@@ -31,6 +31,12 @@ I specialize in creating smart, responsive web applications powered by modern ma
 | [📧 Personal AI Mail Agent](#) | *WIP* Intelligent email filter to surface what matters | Python • CrewAI • LLM APIs |
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkb25&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ## 📬 Let's Connect
 
