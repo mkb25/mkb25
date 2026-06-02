@@ -33,7 +33,7 @@ I specialize in creating smart, responsive web applications powered by modern ma
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohana--krishna--bhat-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohana-krishna-bhat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohana--krishna--bhat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohanakb/)
 [![Email](https://img.shields.io/badge/Email-iammohankrishnabhat@gmail.com-red?style=flat&logo=gmail)](mailto:iammohankrishnabhat@gmail.com)
 
 
